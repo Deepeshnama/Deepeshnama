@@ -4,10 +4,10 @@
 I'm a passionate full-stack web developer with a specialization in backend development using Node.js and a knack for frontend development with React. I'm always eager to learn new technologies and take on challenging projects.
 
 ## My Projects
-### [LetsChat](https://github.com/yourusername/LetsChat)
+### [Let's Chat-] https://helpful-tarsier-fd8e00.netlify.app/
 A real-time chat application built with Node.js and Socket.IO, allowing users to communicate instantly and securely.
 
-### [Calorie-Calculator](https://github.com/yourusername/Calorie-Calculator)
+### [Pronutrition] https://pronutritions.netlify.app/
 A web application that helps users track their daily calorie intake and manage their diet, powered by Node.js and React.
 
 ## Skills
