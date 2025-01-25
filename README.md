@@ -1,7 +1,7 @@
 # Hello, I'm Deepesh Nama 👋
 
 ## About Me
-I'm a passionate full-stack web developer with a specialization in backend development using Node.js and a knack for frontend development with React. I'm always eager to learn new technologies and take on challenging projects.
+I'm a passionate full-stack web developer specializing in backend development using Node.js and have a knack for frontend development with React. I'm always eager to learn new technologies and take on challenging projects.
 
 ## My Projects
 ### [Let's Chat-] https://helpful-tarsier-fd8e00.netlify.app/
@@ -21,7 +21,7 @@ A web application that helps users track their daily calorie intake and manage t
 - 🌐 Portfolio: https://deepeshnama.github.io/
 
 ## Fun Facts
-- 🌱 I’m currently learning more about serverless architecture and microservices.
-- ⚡ Fun fact: I'm a huge fan of sci-fi movies and love binge-watching series on weekends.
+- 🌍 Traveler: "I’m passionate about travelling and experiencing different cultures—hoping to combine that with remote work someday."
+- ⚡ Fun fact: I'm a fan of movies and love binge-watching series on weekends.
 
-Thanks for stopping by! Please feel free to explore my projects and reach out to me.
+Thanks for stopping by! Please feel free to go ahead and explore my projects and reach out to me.
