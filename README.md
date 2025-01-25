@@ -18,7 +18,7 @@ A web application that helps users track their daily calorie intake and manage t
 ## Get in Touch
 - 📫 Email: deepeshnama0786@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/deepesh-nama-046b40170
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://deepeshnama.github.io/
 
 ## Fun Facts
 - 🌱 I’m currently learning more about serverless architecture and microservices.
