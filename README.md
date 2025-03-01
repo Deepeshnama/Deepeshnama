@@ -4,7 +4,7 @@
 I'm a passionate full-stack web developer specializing in backend development using Node.js and have a knack for frontend development with React. I'm always eager to learn new technologies and take on challenging projects.
 
 ## My Projects
-### [Let's Chat-] https://helpful-tarsier-fd8e00.netlify.app/
+### [Let's Chat-] https://construct-week-project-mocha.vercel.app/
 A real-time chat application built with Node.js and Socket.IO, allowing users to communicate instantly and securely.
 
 ### [Pronutrition] https://pronutritions.netlify.app/
